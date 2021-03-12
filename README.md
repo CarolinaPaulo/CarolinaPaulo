@@ -24,5 +24,6 @@ With a degree in Environmental Engineering, I'm looking for a junior development
 ![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaPaulo&layout=compact&count_private=true)
 
 
-![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CarolinaPaulo&hide_border=false)
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CarolinaPaulo&hide_border=true)
+
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CarolinaPaulo&repo=CarolinaPaulo&countColorcountColor)
