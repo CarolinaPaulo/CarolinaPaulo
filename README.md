@@ -1,9 +1,8 @@
-![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CarolinaPaulo&repo=CarolinaPaulo&countColorcountColor)
 <h1> Hi there 👋 </h1>
 
 My name is Carolina de Faria Paulo. 
 - 🔭 I’m currently working on improving my skills on Java and Spring Boot
-- 😄 Pronouns: she/het
+- 😄 Pronouns: she/her
 - ⚡ Fun fact: I love crochet!
 
 Recently I had the opportunity to work with Digital Marketing and something that instigated me are all the technologies that involve the digital environment, mainly the development area. 
@@ -26,4 +25,4 @@ With a degree in Environmental Engineering, I'm looking for a junior development
 
 
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CarolinaPaulo&hide_border=false)
-
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CarolinaPaulo&repo=CarolinaPaulo&countColorcountColor)
