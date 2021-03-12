@@ -1,16 +1,29 @@
-### Hi there 👋
+![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CarolinaPaulo&repo=CarolinaPaulo&countColorcountColor)
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 </h1>
 
-<!--
-**CarolinaPaulo/CarolinaPaulo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Carolina de Faria Paulo. 
+- 🔭 I’m currently working on improving my skills on Java and Spring Boot
+- 😄 Pronouns: she/het
+- ⚡ Fun fact: I love crochet!
 
-Here are some ideas to get you started:
+Recently I had the opportunity to work with Digital Marketing and something that instigated me are all the technologies that involve the digital environment, mainly the development area. 
+With a degree in Environmental Engineering, I'm looking for a junior development position to immerse myself in the IT world.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### Let's connect? 🤝
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/carolinapaulo187/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a><a href="https://www.facebook.com/carolina.paulo.16/"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
+
+</p>
+
+## Languages 🛠  
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;
+![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp; ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&color=orange)&nbsp;  
+
+![Github Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CarolinaPaulo&layout=compact&count_private=true)
+
+
+![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CarolinaPaulo&hide_border=false)
+
