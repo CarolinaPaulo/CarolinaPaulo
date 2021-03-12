@@ -1,5 +1,5 @@
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CarolinaPaulo&repo=CarolinaPaulo&countColorcountColor)
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hi there 👋 </h1>
+<h1> Hi there 👋 </h1>
 
 My name is Carolina de Faria Paulo. 
 - 🔭 I’m currently working on improving my skills on Java and Spring Boot
