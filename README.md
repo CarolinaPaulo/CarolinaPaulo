@@ -9,6 +9,7 @@ Recently I had the opportunity to work with Digital Marketing and something that
 With a degree in Environmental Engineering, I'm looking for a junior development position to immerse myself in the IT world.
 
 ![Snake animation](https://github.com/CarolinaPaulo/CarolinaPaulo/blob/output/github-contribution-grid-snake.svg)
+
 ### Let's connect? 🤝
 <p align="left">
 
