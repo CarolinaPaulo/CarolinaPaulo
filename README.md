@@ -28,3 +28,5 @@ With a degree in Environmental Engineering, I'm looking for a junior development
 ![Github Contributions](https://github-readme-streak-stats.herokuapp.com/?user=CarolinaPaulo&hide_border=true)
 
 ![](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=CarolinaPaulo&repo=CarolinaPaulo&countColorcountColor)
+
+#### _References: [Snake animation](https://github.com/Platane/snk) | [Statistics](https://github.com/anuraghazra/github-readme-stats) | [Summary Cards](https://github.com/vn7n24fzkq/github-profile-summary-cards)_
