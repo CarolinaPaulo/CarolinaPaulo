@@ -10,6 +10,7 @@ With a degree in Environmental Engineering, I'm looking for a junior development
 
 ![Snake animation](https://github.com/CarolinaPaulo/CarolinaPaulo/blob/output/github-contribution-grid-snake.svg)
 
+
 ### Let's connect? 🤝
 <p align="left">
 
