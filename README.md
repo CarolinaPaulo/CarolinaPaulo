@@ -1,12 +1,11 @@
 <h1> Hi there 👋 </h1>
 
 My name is Carolina de Faria Paulo. 
-- 🔭 I’m currently working on improving my skills on Java and Spring Boot
+- 🔭 I’m currently working on improving my skills on Swift
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love crochet!
 
-Recently I had the opportunity to work with Digital Marketing and something that instigated me are all the technologies that involve the digital environment, mainly the development area. 
-With a degree in Environmental Engineering, I'm looking for a junior development position to immerse myself in the IT world.
+I'm working as a iOS developer and I use this profile to update the projects of my learning journey
 
 ![Snake animation](https://github.com/CarolinaPaulo/CarolinaPaulo/blob/output/github-contribution-grid-snake.svg)
 
@@ -19,6 +18,7 @@ With a degree in Environmental Engineering, I'm looking for a junior development
 </p>
 
 ## Languages 🛠  
+![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&color=red)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&color=green)&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring-05122A?style=flat&color=green)&nbsp;![Python](https://img.shields.io/badge/-Python-05122A?style=flat&color=green)&nbsp; ![SpringBoot](https://img.shields.io/badge/-SpringBoot-05122A?style=flat&color=orange)&nbsp;  
 
