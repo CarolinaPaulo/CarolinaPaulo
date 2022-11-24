@@ -1,6 +1,6 @@
 <h1> Hi there 👋 </h1>
 
-My name is Carolina de Faria Paulo. 
+My name is Carolina Paulo. 
 - 🔭 I’m currently working on improving my skills on Swift
 - 😄 Pronouns: she/her
 - ⚡ Fun fact: I love crochet!
