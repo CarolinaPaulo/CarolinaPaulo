@@ -3,6 +3,9 @@ name: Generate Datas
 on:
   schedule: # execute every 1 hour
     - cron: "* */1 * * *"
+  push:
+    branches:
+      - main 
   workflow_dispatch:
 
 jobs:
