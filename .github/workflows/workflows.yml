@@ -19,7 +19,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          github_user_name: ${{ github.repository_owner }}
+          USERNAME: ${{ github.repository_owner }}
 
       # Snake Animation
       - uses: Platane/snk@v3
