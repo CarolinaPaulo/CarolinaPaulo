@@ -2,8 +2,8 @@
 name: Generate Datas
 
 on:
-  schedule: # execute every 12 hours
-    - cron: "* */12 * * *"
+  schedule: # execute every 1 hour
+    - cron: "* */1 * * *"
   workflow_dispatch:
 
 jobs:
@@ -17,7 +17,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
-          USERNAME: ${{ github.repository_owner }}
+          github_user_name: ${{ github.repository_owner }}
 
       # Snake Animation
       - uses: Platane/snk@v3
