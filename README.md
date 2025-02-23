@@ -7,7 +7,7 @@ My name is Carolina Paulo.
 
 I'm working as a iOS developer and I use this profile to update the projects of my learning journey
 
-![Snake animation](https://github.com/CarolinaPaulo/CarolinaPaulo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/CarolinaPaulo/CarolinaPaulo/blob/output/github-snake-dark.svg)
 
 ### Let's connect? 🤝
 <p align="left">
